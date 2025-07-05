@@ -1,0 +1,1 @@
+// Raindrop reward logic
